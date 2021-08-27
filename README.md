@@ -1,4 +1,4 @@
-# Demo
+## Demo: 
 <img src="/demo_images/demo.gif">
 
 # Getting Started with Create React App
